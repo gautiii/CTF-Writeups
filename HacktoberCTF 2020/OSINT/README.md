@@ -50,6 +50,7 @@ The first link gave away the answer to this question.
 ![mothman yandex](https://github.com/gautiii/CTF-Writeups/blob/main/HacktoberCTF%202020/OSINT/images/mothman%20yandex.PNG)
 
 Point Pleasant is the city name and West Virginia is the state. (The statue is called Mothman)
+
 Flag - flag{Point Pleasant, WV}.
 
 
